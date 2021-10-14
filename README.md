@@ -35,3 +35,12 @@ root                    (project root folder)
 ## Authors
 ---
 * TODO: Add your names and emails here
+
+Uche Ajike
+uch19001@byui.edu
+
+Dale Andreoli
+aust.t.jac@gmail.com
+
+Austin Jacobs
+aust.t.jac@gmail.com
