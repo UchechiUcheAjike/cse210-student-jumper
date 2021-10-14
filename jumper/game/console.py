@@ -21,7 +21,7 @@ class Console:
         if lives >= 4:
             print("  ___")
         if lives >= 3:
-            print(" /___\")
+            print(" /___\\")
         if lives >= 2:
             print(" \   /")
         if lives >= 1:
@@ -29,8 +29,8 @@ class Console:
             print("   0")
         if lives == 0:
             print("   x")
-        print("  /|\")
-        print("  / \")
+        print("  /|\\")
+        print("  / \\")
         print()
         print("^^^^^^^")
 
