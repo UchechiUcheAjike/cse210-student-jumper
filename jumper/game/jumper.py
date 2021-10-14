@@ -9,6 +9,9 @@ class Jumper:
             return True
         else: 
             return False
+    
+    def lose_a_life(self):
+        self.lives -= 1
 
     
     
